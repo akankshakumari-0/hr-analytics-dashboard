@@ -2,8 +2,7 @@
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](IBM_HR_Analytics_Dashboard.png)
-
+![HR Analytics Dashboard](IBM_HR_Analytics_Dashboard.png.png)
 ## Project Overview
 
 Developed an interactive HR Analytics Dashboard using Power BI to analyze employee attrition, workforce demographics, and organizational trends.
